@@ -16,7 +16,7 @@ I've created a comprehensive README.md file for your Project Management System b
 11. **Development** - Available scripts and code quality tools
 12. **Planned Features** - Based on your PRD document
 
-## �� **Highlights:**
+##✅**Highlights:**
 
 - **Current State**: Accurately reflects what's implemented (health check, basic structure, utilities)
 - **Future Ready**: Includes planned features from your PRD
